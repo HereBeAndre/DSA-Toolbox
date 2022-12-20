@@ -7,6 +7,10 @@
  * @param {number} number - The maximum integer we want to print.
  */
 
+/**
+ * Big-O Time Complexity: O(N)
+ * Big-O Space Complexity: O(1)
+ */
 function fizzBuzz(number) {
   for (let i = 1; i <= number; i++) {
     let output = "";
@@ -17,6 +21,10 @@ function fizzBuzz(number) {
   }
 }
 
+/**
+ * Big-O Time Complexity: O(N)
+ * Big-O Space Complexity: O(N)
+ */
 function fizzBuzzList(number) {
   const output = [];
 
