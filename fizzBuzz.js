@@ -1,8 +1,9 @@
 /**
- * Accept integers one-to-N. Print “Fizz” if an integer is divisible by three,
+ * Prints integers one-to-N.
+ * Prints “Fizz” if an integer is divisible by three,
  * “Buzz” if it is divisible by five,
- * “FizzBuzz” if it is divisible by both three and five,
- * the integer if it is not divisible.
+ * “FizzBuzz” if it is divisible by both three and five.
+ * Prints the integer if none of the conditions above match.
  * @param {number} number - The maximum integer we want to print.
  */
 
