@@ -9,7 +9,7 @@ const DICT = {
 };
 
 /**
- * Given a Roman number, returns it numeric value
+ * Given a Roman number, returns its numeric value
  * @param {string} str
  * @returns {number}
  */
